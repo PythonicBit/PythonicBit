@@ -4,7 +4,7 @@ I'm a bigenner I'm passionate about protecting systems,and breaking into things 
 
     🔭 I work with tools across Cybersecurity and Web Development:
         🛠️ MERN Stack: MongoDB, Express.js, React.js, Node.js
-        🐍 Python: Automation, Scripting, Security Tools
+        🐍 Python: Automation, Scripting, Security Tools,Django,Flask
         🕸️ Web Exploitation: XSS, SQL Injection, Subdomain Enumeration
         🔓 Bug Bounties: Actively hunting for vulnerabilities and reporting them responsibly.
         🎯 CTF Player: Competing in Capture the Flag (CTF) challenges regularly.
