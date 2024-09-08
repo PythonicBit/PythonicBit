@@ -23,15 +23,15 @@ I'm a bigenner I'm passionate about protecting systems,and breaking into things 
 💼 Tools & Technologies
 🛠 Cybersecurity:
 
-    Recon & Scanning: Nmap, Amass, Subfinder ,TheSubsBiter
-    Exploitation: Burp Suite, SQLmap, Metasploit, XSS Hunter
-    Enumeration: Sublist3r, Subfinder, GF
-    Malware Analysis: Ghidra, Radare2
-    CTF Tools: pwntools, gdb, binwalk
+    Recon & Scanning: Nmap, Amass, Subfinder ,TheSubsBiter and More
+    Exploitation: Burp Suite, SQLmap, Metasploit, XSS Hunter and More
+    Enumeration: Sublist3r, Subfinder, GF and More
+    Malware Analysis: Ghidra, Radare2 and More
+    CTF Tools: pwntools, gdb and More
 
 💻 Development:
 
-    Languages: JavaScript (React, Node.js), Python, Java, PHP
+    Languages: JavaScript (React, Node.js), Python, Java, PHP , C
     Web Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js),Django,Flask
     Scripting: Python for automation, vulnerability scanning, bash
     Version Control: GitHub, GitLab
@@ -43,7 +43,7 @@ I'm a bigenner I'm passionate about protecting systems,and breaking into things 
 
 🤝 Let's Connect
 
-    LinkedIn: Connect with me
+    LinkedIn: emmm wait im thinking about it
 
 Feel free to reach out to me if you’re interested in collaborating or just want to chat about cybersecurity and development!
 
