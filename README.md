@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hello+Friend!+I'm+a+Pythonic+Bite" /> </p> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hello+Friend!+I'm+a+Pythonic+Bit" /> </p> 
 
 I'm a bigenner I'm passionate about protecting systems,and breaking into things writing clean and efficient code, and finding vulnerabilities that others overlook. Whether it's competing in CTF challenges or building complex web applications, I'm always pushing my limits.
 
